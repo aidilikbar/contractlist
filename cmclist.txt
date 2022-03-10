@@ -1,0 +1,30 @@
+https://coinmarketcap.com/currencies/asix-token/
+BEP20 0xc98a8ec7a07f1b743e86896a52434c4c6a0dbc42
+
+https://coinmarketcap.com/currencies/fish-crypto/
+BEP20 0x29cabf2a1e5de6f0ebc39ca6fe83c687fe90fb6c
+
+https://coinmarketcap.com/currencies/bittorrent-new/
+Tron20 TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4
+ERC20 0xc669928185dbce49d2230cc9b0979be6dc797957
+BEP20 0x352Cb5E19b12FC216548a2677bD0fce83BaE434B
+
+https://coinmarketcap.com/currencies/doge-dash/
+BEP20 0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70
+
+https://coinmarketcap.com/currencies/tap-fantasy/
+BEP20 0x35bEdBF9291b22218a0dA863170dcC9329Ef2563
+
+https://coinmarketcap.com/currencies/buff-doge-coin/
+BEP20 0x23125108bc4c63E4677b2E253Fa498cCb4B3298b
+
+https://coinmarketcap.com/currencies/baby-doge-coin/
+ERC20 0xAC57De9C1A09FeC648E93EB98875B212DB0d460B
+BEP20 0xc748673057861a797275cd8a068abb95a902e8de
+
+https://coinmarketcap.com/currencies/richquack-com/
+BEP20 0xD74b782E05AA25c50e7330Af541d46E18f36661C
+
+https://coinmarketcap.com/currencies/fegtoken/
+ERC20 0x389999216860ab8e0175387a0c90e5c52522c945
+BEP20 0xacfc95585d80ab62f67a14c566c1b7a49fe91167
